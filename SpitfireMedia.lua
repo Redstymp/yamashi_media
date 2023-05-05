@@ -16,7 +16,6 @@ LSM:Register("background", "spitfire", [[Interface\Addons\SharedMedia_SpitfireMe
 -- -----
 --   SOUND
 -- -----
-LSM:Register("sound", "blind_besoffen", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\blind_besoffen.mp3]]) 
 LSM:Register("sound", "spitfire_001_carry", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_001_carry.ogg]]) 
 LSM:Register("sound", "spitfire_002_blamage", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_002_blamage.mp3]]) 
 LSM:Register("sound", "spitfire_003_fuehrer", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_003_fuehrer.mp3]]) 
@@ -38,6 +37,7 @@ LSM:Register("sound", "spitfire_018_buzzer", [[Interface\Addons\SharedMedia_Spit
 LSM:Register("sound", "spitfire_019_doh", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_019_doh.mp3]]) 
 LSM:Register("sound", "spitfire_020_beduerfnisse", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_020_beduerfnisse.mp3]]) 
 LSM:Register("sound", "spitfire_021_ja_ja", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_021_ja_ja.mp3]]) 
+LSM:Register("sound", "spitfire_022_blind_besoffen", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_022_blind_besoffen.mp3]]) 
 LSM:Register("sound", "spitfire_s01_sailor_moon", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s01_sailor_moon.mp3]]) 
 
 -- -----
