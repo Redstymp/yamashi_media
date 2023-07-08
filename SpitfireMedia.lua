@@ -8,6 +8,7 @@ LSM:Register("background", "spitfire", [[Interface\Addons\SharedMedia_SpitfireMe
 -- ----- 
 --  BORDER 
 -- ---- 
+LSM:Register("border", "", [[Interface\Addons\SharedMedia_SpitfireMedia\border\.gitignore]]) 
 
 -- -----
 --   FONT
@@ -39,7 +40,9 @@ LSM:Register("sound", "spitfire_020_beduerfnisse", [[Interface\Addons\SharedMedi
 LSM:Register("sound", "spitfire_021_ja_ja", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_021_ja_ja.mp3]]) 
 LSM:Register("sound", "spitfire_022_blind_besoffen", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_022_blind_besoffen.mp3]]) 
 LSM:Register("sound", "spitfire_s01_sailor_moon", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s01_sailor_moon.mp3]]) 
+LSM:Register("sound", "spitfire_s02_jaraxxus", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s02_jaraxxus.mp3]]) 
 
 -- -----
 --   STATUSBAR
 -- -----
+LSM:Register("statusbar", "", [[Interface\Addons\SharedMedia_SpitfireMedia\statusbar\.gitignore]]) 
