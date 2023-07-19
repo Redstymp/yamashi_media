@@ -41,6 +41,7 @@ LSM:Register("sound", "spitfire_021_ja_ja", [[Interface\Addons\SharedMedia_Spitf
 LSM:Register("sound", "spitfire_022_blind_besoffen", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_022_blind_besoffen.mp3]]) 
 LSM:Register("sound", "spitfire_s01_sailor_moon", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s01_sailor_moon.mp3]]) 
 LSM:Register("sound", "spitfire_s02_jaraxxus", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s02_jaraxxus.mp3]]) 
+LSM:Register("sound", "spitfire_s03_jaws", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s03_jaws.mp3]]) 
 
 -- -----
 --   STATUSBAR
