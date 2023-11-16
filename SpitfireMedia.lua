@@ -39,9 +39,13 @@ LSM:Register("sound", "spitfire_019_doh", [[Interface\Addons\SharedMedia_Spitfir
 LSM:Register("sound", "spitfire_020_beduerfnisse", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_020_beduerfnisse.mp3]]) 
 LSM:Register("sound", "spitfire_021_ja_ja", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_021_ja_ja.mp3]]) 
 LSM:Register("sound", "spitfire_022_blind_besoffen", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_022_blind_besoffen.mp3]]) 
+LSM:Register("sound", "spitfire_023_nuke", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_023_nuke.mp3]]) 
+LSM:Register("sound", "spitfire_024_dead", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_024_dead.mp3]]) 
 LSM:Register("sound", "spitfire_s01_sailor_moon", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s01_sailor_moon.mp3]]) 
 LSM:Register("sound", "spitfire_s02_jaraxxus", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s02_jaraxxus.mp3]]) 
 LSM:Register("sound", "spitfire_s03_jaws", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s03_jaws.mp3]]) 
+LSM:Register("sound", "spitfire_s04_ice", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s04_ice.mp3]]) 
+LSM:Register("sound", "spitfire_s05_intermission", [[Interface\Addons\SharedMedia_SpitfireMedia\sound\spitfire_s05_intermission.mp3]]) 
 
 -- -----
 --   STATUSBAR
