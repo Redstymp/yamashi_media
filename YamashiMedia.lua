@@ -32,6 +32,8 @@ LSM:Register("sound", "yamashi_012_wooo", [[Interface\Addons\SharedMedia_Yamashi
 LSM:Register("sound", "yamashi_013_letsgo", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_013_letsgo.mp3]]) 
 LSM:Register("sound", "yamashi_014_khazmodan", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_014_khazmodan.mp3]]) 
 LSM:Register("sound", "yamashi_015_pacman", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_015_pacman.mp3]]) 
+LSM:Register("sound", "yamashi_016_kaboom", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_016_kaboom.mp3]]) 
+LSM:Register("sound", "yamashi_017_feuerball", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_017_feuerball.mp3]]) 
 LSM:Register("sound", "yamashi_s01_jaraxxus", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s01_jaraxxus.mp3]]) 
 LSM:Register("sound", "yamashi_s02_jaws", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s02_jaws.mp3]]) 
 LSM:Register("sound", "yamashi_s03_ice", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s03_ice.mp3]]) 
