@@ -3,7 +3,7 @@ local LSM = LibStub("LibSharedMedia-3.0")
 -- ----- 
 -- BACKGROUND 
 -- ----- 
-LSM:Register("background", "spitfire", [[Interface\Addons\SharedMedia_YamashiMedia\background\spitfire.tga]]) 
+LSM:Register("background", "", [[Interface\Addons\SharedMedia_YamashiMedia\background\.gitignore]]) 
 
 -- ----- 
 --  BORDER 
@@ -34,10 +34,14 @@ LSM:Register("sound", "yamashi_014_khazmodan", [[Interface\Addons\SharedMedia_Ya
 LSM:Register("sound", "yamashi_015_pacman", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_015_pacman.mp3]]) 
 LSM:Register("sound", "yamashi_016_kaboom", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_016_kaboom.mp3]]) 
 LSM:Register("sound", "yamashi_017_feuerball", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_017_feuerball.mp3]]) 
+LSM:Register("sound", "yamashi_018_feuerball_short", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_018_feuerball_short.mp3]]) 
+LSM:Register("sound", "yamashi_019_bam", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_019_bam.mp3]]) 
+LSM:Register("sound", "yamashi_020_get_over_here", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_020_get_over_here.mp3]]) 
 LSM:Register("sound", "yamashi_s01_jaraxxus", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s01_jaraxxus.mp3]]) 
 LSM:Register("sound", "yamashi_s02_jaws", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s02_jaws.mp3]]) 
 LSM:Register("sound", "yamashi_s03_ice", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s03_ice.mp3]]) 
 LSM:Register("sound", "yamashi_s04_intermission", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s04_intermission.mp3]]) 
+LSM:Register("sound", "yamashi_s05_turbo", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s05_turbo.mp3]]) 
 
 -- -----
 --   STATUSBAR
