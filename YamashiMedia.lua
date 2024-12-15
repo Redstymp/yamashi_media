@@ -40,12 +40,18 @@ LSM:Register("sound", "yamashi_020_get_over_here", [[Interface\Addons\SharedMedi
 LSM:Register("sound", "yamashi_021_strike", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_021_strike.mp3]]) 
 LSM:Register("sound", "yamashi_022_oof", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_022_oof.mp3]]) 
 LSM:Register("sound", "yamashi_023_goomba", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_023_goomba.mp3]]) 
+LSM:Register("sound", "yamashi_024_nicht_lesen", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_024_nicht_lesen.mp3]]) 
+LSM:Register("sound", "yamashi_025_nicht_lesen_7mille", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_025_nicht_lesen_7mille.mp3]]) 
+LSM:Register("sound", "yamashi_026_im_in_danger", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_026_im_in_danger.mp3]]) 
+LSM:Register("sound", "yamashi_027_run", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_027_run.mp3]]) 
 LSM:Register("sound", "yamashi_s01_jaraxxus", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s01_jaraxxus.mp3]]) 
 LSM:Register("sound", "yamashi_s02_jaws", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s02_jaws.mp3]]) 
 LSM:Register("sound", "yamashi_s03_ice", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s03_ice.mp3]]) 
 LSM:Register("sound", "yamashi_s04_intermission", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s04_intermission.mp3]]) 
 LSM:Register("sound", "yamashi_s05_turbo", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s05_turbo.mp3]]) 
 LSM:Register("sound", "yamashi_s06_fly", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s06_fly.mp3]]) 
+LSM:Register("sound", "yamashi_s07_sax", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s07_sax.mp3]]) 
+LSM:Register("sound", "yamashi_s08_funeral", [[Interface\Addons\SharedMedia_YamashiMedia\sound\yamashi_s08_funeral.mp3]]) 
 
 -- -----
 --   STATUSBAR
